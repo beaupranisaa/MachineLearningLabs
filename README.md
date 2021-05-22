@@ -1,2 +1,2 @@
-# MlLabs
+# Machine Learning Labs
 This repository contains exercises of Machine Learning couse (2020Aug) at Asian Institute of Technology.
